@@ -187,7 +187,7 @@
   <body>
     <div class="main_page">
       <div class="page_header floating_element">
-        <img src="/icons/ubuntu-logo.png" alt="Ubuntu Logo" class="floating_element"/>
+ <!--       <img src="/icons/ubuntu-logo.png" alt="Ubuntu Logo" class="floating_element"/> -->
         <span class="floating_element">
           Russell's Apache2 Ubuntu Info Page</br>
           <?php echo date(DATE_RFC2822);?>
@@ -248,8 +248,6 @@
         <div class="content_section_text">
           <?php echo "<pre>"; print_r($_POST) ;  echo "</pre>";  ?>
         </div>
-
-
       </div>
     </div>
     <div class="validator">
