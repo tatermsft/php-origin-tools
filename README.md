@@ -4,13 +4,13 @@ languages:
 - php
 products:
 - azure
-description: "This sample demonstrates a tiny Hello World PHP app for App Service."
-urlFragment: php-docs-hello-world
+description: "This repo hosts a simple php application to dump incoming request headers and POST variables into HTML."
+urlFragment: php-origin-tools
 ---
 
-# PHP Hello World
+# PHP Origin Tools
 
-This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service).
+This repo hosts a simple php application to dump incoming request headers and POST variables into HTML.
 
 ## Contributing
 
