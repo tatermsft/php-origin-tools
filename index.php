@@ -189,7 +189,7 @@
       <div class="page_header floating_element">
  <!--       <img src="/icons/ubuntu-logo.png" alt="Ubuntu Logo" class="floating_element"/> -->
         <span class="floating_element">
-          Russell's Apache2 Ubuntu Info Page</br>
+          PHP Origin Tools</br>
           <?php echo date(DATE_RFC2822);?>
         </span>
       </div>
@@ -216,7 +216,7 @@
 
         <div class="section_header section_header_red">
           <div id="about"></div>
-          It works!</br>Host name: <?php echo gethostname(); ?>
+          Host name: <?php echo gethostname(); ?>
         </div>
         <div class="content_section_text">
           <p>
