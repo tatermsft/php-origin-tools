@@ -13,7 +13,7 @@
   <body>
     <div class="main_page">
       <div class="page_header floating_element">
- <!--       <img src="/icons/ubuntu-logo.png" alt="Ubuntu Logo" class="floating_element"/> -->
+       <img src="/tools.png" alt="Ubuntu Logo" class="floating_element"/> 
         <span class="floating_element">
           PHP Origin Tools</br>
           <?php echo date(DATE_RFC2822);?>
