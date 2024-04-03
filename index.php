@@ -32,9 +32,19 @@
           </p>
         </div>
         <div class="section_header">
+            <div id="querystrings"></div>
+            Query strings
+        </div>
+        <div class="content_section_text">
+            <?php
+            $queryString = $_SERVER['QUERY_STRING'];
+            echo "Raw query string: $queryString";
+            ?>
+        </div>
+        <div class="section_header">
             <div id="requestheaders"></div>
             Request Headers
-            </div>
+        </div>
         <div class="content_section_text">
           <?php
            # From https://www.php.net/manual/en/function.apache-request-headers.php
