@@ -10,7 +10,7 @@ urlFragment: php-origin-tools
 
 # PHP Origin Tools
 
-This repo hosts a simple php application to dump incoming request headers and POST variables into HTML.
+This repo hosts a simple php application to dump incoming query strings, request headers, and POST variables into HTML.
 
 ## Contributing
 
