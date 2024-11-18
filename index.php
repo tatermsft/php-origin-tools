@@ -65,6 +65,16 @@
            echo "<pre>"; print_r($_POST) ;  echo "</pre>";  
           ?>
         </div>
+        <div class="section_header">
+           <div id="websocketsdemolink"></div>
+           Websockets Demo
+        </div>
+        <div class="content_section_text">
+           <a href="websocketsdemo.php">Websockets Demo Chat Room</a>
+           <p>
+              Provides a quick easy way to see websockets in action.  Requires a separate websockets server.
+           </p>
+        </div>
       </div>
     </div>
     <div class="validator">
