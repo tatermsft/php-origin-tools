@@ -11,6 +11,7 @@ urlFragment: php-origin-tools
 # PHP Origin Tools
 
 This repo hosts a simple php application to dump incoming query strings, request headers, and POST variables into HTML.
+It also provides a simple javascript based chat room client to demonstrate websockets.  A sample websockets server url is provided.  Please edit websocketsdemo.php to point to your own websockets server.
 
 ## Contributing
 
